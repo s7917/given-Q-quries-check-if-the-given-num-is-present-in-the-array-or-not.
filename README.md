@@ -1,0 +1,1 @@
+# given-Q-quries-check-if-the-given-num-is-present-in-the-array-or-not.
